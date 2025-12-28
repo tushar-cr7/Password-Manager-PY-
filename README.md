@@ -32,4 +32,4 @@ The project is kept simple and focuses only on core Python concepts taught in th
 ## Author
 Tushar
 
-## Project Structure
+
